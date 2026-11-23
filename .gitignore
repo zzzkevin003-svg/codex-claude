@@ -1,0 +1,5 @@
+.DS_Store
+key.local
+*.local
+.env
+*.tar.gz
